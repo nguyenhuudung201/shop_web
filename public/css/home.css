@@ -1,0 +1,68 @@
+.carousel-item {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.slider {
+    position: absolute;
+    top: 30%;
+    left: 13%;
+    max-width: 400px;
+}
+
+.content li {
+    padding: 0;
+    padding-top: 5px;
+}
+
+.content li:last-child {
+    padding: 0;
+    padding-top: 35px;
+}
+
+.content h5 {
+    color: white;
+    font-weight: 600;
+}
+
+.content h2 {
+    color: white;
+    font-weight: 600;
+}
+
+.content p {
+    color: white;
+
+}
+
+.content a {
+    color: #333333;
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 18px 44px
+}
+
+.content a:hover {
+    color: #333333;
+    background-color: transparent;
+}
+
+.home-e2 {
+    background-color: #fcedda;
+
+}
+
+.home-e2 i {
+    font-size: 50px;
+    color: #333333;
+}
+
+.home-e2 h5 {
+    color: #000;
+    font-weight: 500;
+}
+
+.home-e2 p {
+    color: #000;
+
+}
